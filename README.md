@@ -5,6 +5,11 @@ This version is a old version of my bot which
 # [Installation]
 
 To install this bot you will need to go on https://discord.com/developers/applications and make a bot and from there you will change from config.json file, same for prices and the webhook.
+You will need https://nodejs.org/en/ and these modules : 
+axios
+discord.js
+
+
 
 # [Image] 
 
