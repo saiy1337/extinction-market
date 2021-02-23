@@ -1,0 +1,12 @@
+{
+    "token": "BOT'S TOKEN",
+    "weapons": [
+        {
+            "name": "ITEM NAME",
+            "sanitized_name": "ITEM PROPER NAME",
+            "price": ITEM PRICE
+        }
+    ],
+    "interval": 2000,
+    "webhook_link": "WEBHOOK LINK HERE"
+}
