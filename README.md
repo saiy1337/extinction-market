@@ -18,3 +18,6 @@ discord.js
 # [Quality of code]
 
 Shitty
+
+# [Support]
+To have support for the bot either contact me on hola hola hermanitos#4507 or on https://discord.gg/z2eU6uV4Ze
