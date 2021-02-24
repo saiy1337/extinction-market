@@ -7,10 +7,6 @@ var doneOffers = [];
 function formatNumber(n) {
   return n.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
 }
-
-const Discord = require('discord.js');
-const bot = new Discord.Client();
-
 function checkMarketplace() {
   var item = priceArray[~~(Math.random() * priceArray.length)];
   const item_name = item.sanitized_name;
@@ -34,4 +30,3 @@ function checkMarketplace() {
 
 setInterval(checkMarketplace, config.interval);
 
-bot.login(config.token);
