@@ -1,11 +1,11 @@
 {
     "weapons": [
         {
-            "name": "ITEM NAME",
-            "sanitized_name": "ITEM PROPER NAME",
+            "name": "ITEM NAME (ex : weapon_rpg)",
+            "sanitized_name": "ITEM PROPER NAME (ex : RPG)",
             "price": ITEM PRICE
         }
     ],
-    "interval": 2000,
-    "webhook_link": "WEBHOOK LINK HERE"
+    "interval": 2000, // the interval will be stuck on 2000 if you dont have proxies
+    "webhook_link": "WEBHOOK LINK HERE" // channel integrations, create a webhook and use that link
 }
