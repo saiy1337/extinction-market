@@ -15,7 +15,7 @@ hence if you dont have proxies, you will need to stick with 1.5s/2s delay.
 # [Installation]
 
 To install this bot you will need to go on https://discord.com/developers/applications and make a bot and from there you will change from config.json file, same for prices and the webhook.
-You will need https://nodejs.org/en/ and these modules : 
+You will need https://nodejs.org/en/ and this module : 
 axios
 
 
